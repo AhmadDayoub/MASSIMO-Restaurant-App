@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MASSIMO-Restaurant-App
 
-## Getting Started
 
-First, run the development server:
+## Welcome! 👋
+Thanks for checking out this front-end coding challenge.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Links
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Solution URL: [Github](https://github.com/AhmadDayoub/MASSIMO-Restaurant-App)
+- Live Site URL: [Live Site](https://massimo-restaurant-app.vercel.app/)
 
-## Learn More
+## My process
 
-To learn more about Next.js, take a look at the following resources:
+### Built with
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next & React - TypeScript
+-  Tailwind
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Linkedin - (https://www.linkedin.com/in/ahmad-dayoub-)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+By me 🚀🚀🚀
+Ahmad Dayoub
+
+
+
